@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cmendina10-lab.github.io/sitemap.xml
+Sitemap: https://veldstudio.github.io/sitemap.xml
